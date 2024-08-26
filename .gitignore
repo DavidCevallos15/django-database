@@ -1,0 +1,4 @@
+.env
+biblioteca/__pycache__/
+libros/migrations/__pycache__/
+env/
